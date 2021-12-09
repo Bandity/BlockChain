@@ -1,0 +1,26 @@
+{
+  "name": "block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bandity/Block.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bandity/Block/issues"
+  },
+  "homepage": "https://github.com/Bandity/Block#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12"
+  }
+}
